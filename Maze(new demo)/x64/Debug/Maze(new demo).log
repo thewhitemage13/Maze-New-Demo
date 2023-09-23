@@ -1,0 +1,4 @@
+﻿  Maze(new demo).cpp
+C:\Users\lolim\Desktop\C++\Maze(new demo)\Maze(new demo).cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\lolim\Desktop\C++\Maze(new demo)\Maze(new demo).cpp(167): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Maze(new demo).vcxproj -> C:\Users\lolim\Desktop\C++\Maze(new demo)\x64\Debug\Maze(new demo).exe
